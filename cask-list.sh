@@ -17,6 +17,7 @@ installcask firefox
 installcask iterm2
 installcask macvim
 installcask sublime-text
+installcask keka
 
 # installcask google-chrome-canary
 # installcask imagealpha

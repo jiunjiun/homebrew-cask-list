@@ -11,6 +11,7 @@ Install app list
 * [iTerm2](http://www.iterm2.com/)
 * [macvim](https://code.google.com/p/macvim/)
 * [Sublime Text](http://www.sublimetext.com/)
+* [Keka](http://www.kekaosx.com/zh-tw/)
 
 ```
 sh cask-list.sh

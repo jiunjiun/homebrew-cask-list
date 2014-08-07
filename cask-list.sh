@@ -2,7 +2,8 @@
 # Reference file: https://github.com/mathiasbynens/dotfiles/blob/master/.cask
 
 # Install native apps
-brew install caskroom/cask/brew-cask
+brew tap phinze/homebrew-cask
+brew install brew-cask
 
 function installcask() {
 	brew cask install "${@}" 2> /dev/null
